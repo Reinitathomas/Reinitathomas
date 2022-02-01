@@ -1,13 +1,12 @@
-======================REINITA THOMAS=======================
-- 👋 Hi, I’m @Reinitathomas
-- 👀 I’m interested in Full stack Web Development,Artificial Intelligence and Data science; 
-- 🌱 I aspire to become a full stack web developer
-- 💞️ I have been a part of Front End Engineering COE @ my college
-- 📫 You can reach me out via linkdin @Reinita Thomas
-- ✨ I have done a internships on web development @ExposysDataLabs. Also I have attended various bootcamps on Python and machine learning , Web development using Java Script            and React @ShapeAI 
-- 🎀 I have done various courses on Coursera, Google, Udemy, edx through which I have enhanced my knowledge in various fields.
-- ✨ The front end and back end web development tools I know are HTML, CSS, JavaScript, Bootstrap, Node,express, Mongoose, MongoDB, React and much more.
-- ✨ Using the knowledge I had gained in Python I have built various projects some of them are Turtle race prediction,Amazon Price Tracker,Snake game,Tic-tac-toe,Ball Bouncer and    much more
-- 😎 I have built Netflix-Clone using HTML,CSS,JavaScript,React
-- 🤩 Do check out my github repositories for the projects.
+Hi there, This is Reinita Thomas👋
 
+https://user-images.githubusercontent.com/59694694/151965527-44f1a267-fabb-472e-a738-47e1be705094.mp4
+
+- 💙 I love developing and researching
+- 🤓 I am Computer Science Student
+- 🐤 Currently doing a course on articial intelligence
+- ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve real world problems.
+- 📬 Reach me out on Linkedin @ReinitaThomas
+- 😎 Check out my projects from the below links
+- ⛑️ Covid tracker : https://covid-19-tracker-reinita.web.app/
+- 🍿 Netflix Clone : https://netflix-clone-reinita.web.app/
