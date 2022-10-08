@@ -5,7 +5,7 @@
 <ul>
 <li> 💙 I love developing and researching</li>
 <li> 🤓 I am Computer Science Student</li>
-<li>🐤 Currently doing a course on artificial intelligence</li>
+<li>🐤 Working on a Project using Artificial Inteligence.</li>
 <li>✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve real world problems.</li>
 <li>📬 Reach me out on <a href="https://www.linkedin.com/in/reinita-thomas-27876b1b5/">Linkedin</a></li>
 <li>📬 My Portfolio <a href="https://reinita-s-portfolio.web.app/">Portfolio</a></li>
