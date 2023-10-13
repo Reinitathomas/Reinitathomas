@@ -4,10 +4,13 @@
 
 <h4>
 ✨ I am passionate about exploring the limitless possibilities that technology has to offer. 
+
      
 🎓 My studies have equipped me with a broad range of technical skills, including programming, algorithms, database management, and software development.
 
-👩‍💻 I am eager to apply these skills to real-world problems and make a positive impact on the world. I am also a quick learner and a strong collaborator, always seeking out new opportunities to broaden my horizons and work with others to create innovative solutions.
+👩‍💻 I am eager to apply these skills to real-world problems and make a positive impact on the world. 
+
+🤓 I am also a quick learner and a strong collaborator, always seeking out new opportunities to broaden my horizons and work with others to create innovative solutions.
 </h2>
 
 <ul>
