@@ -5,6 +5,7 @@
 <h4>
 ✨ I am passionate about exploring the limitless possibilities that technology has to offer. 
 
+<br>
      
 🎓 My studies have equipped me with a broad range of technical skills, including programming, algorithms, database management, and software development.
 
